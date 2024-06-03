@@ -1,2 +1,2 @@
-# btl-ptudweb
-Web admin đơn giản quản lý trường tiểu học
+# Về Project
+Công nghệ sử dụng: Tailwind CSS, backend sử dụng PHP
